@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Adam 👋🏼
+
+I am 3rd year Computer Science student at the Lodz University of Technology.\
+My interest in programming is focused on Web Development.
+
+## 🔭 Main technologies
+* Angular
+* React
+* Express
+
+## 🌱 I’m currently learning
+* Golang
+
+## 📫 How can you reach me?
+
+💌 By an email: adamjedrzejec@gmail.com\
+💬 or via [Facebook](https://www.facebook.com/adam.jedrzejec/)
 
 <!--
 **adamjedrzejec/adamjedrzejec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
