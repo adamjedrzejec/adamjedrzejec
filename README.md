@@ -9,7 +9,8 @@ My interest in programming is focused on Web Development.
 * Express
 
 ## 🌱 I’m currently learning
-* Golang
+* Golang, in general
+* Secure authentication methods and JS implementations
 
 ## 📫 How can you reach me?
 
