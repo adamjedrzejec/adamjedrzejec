@@ -4,7 +4,6 @@ I am 4th year Computer Science student at the Lodz University of Technology.\
 My interest in programming is focused on Web Development.
 
 ## 🔭 Main technologies
-* Angular
 * React
 * Express
 
